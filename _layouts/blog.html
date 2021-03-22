@@ -1,0 +1,20 @@
+---
+layout: default
+title: Notes
+---
+
+{% for post in site.posts %}
+<article role="article">
+  <time class="date" datetime="{{ post.date | date_to_xmlschema }}">
+    {{ post.date | date: "%Y/%m/%d" }}
+  </time>
+  <br />
+  <a href="{{ site.baseurl }}{{ post.url }}">
+  {{ post.title }}
+  </a>
+  <p>
+    {{ post.summary }}
+  </p>
+</article>
+{% endfor %}
+

@@ -1,0 +1,64 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+    margin: 0 auto;
+    // max-width: 50rem;
+    max-width: 620px;
+    padding: 1rem;
+}
+
+strong, b, h1, h2, h3, h4 {
+	font-weight: bold;
+}
+
+hr {
+    background: #d8e9ef;
+    border: 0;
+    height: 2px;
+    margin: 2rem 0;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+
+    tr {
+        border-bottom: 1px solid #d8e9ef;
+    }
+
+    td {
+        padding: 0.5rem;
+    }
+}
+
+img {
+    width: 100%;
+    margin: 0.5rem 0;
+}
+
+nav {
+    ul {
+        list-style: none;
+        padding: 0;
+        text-align: left;
+
+        li {
+            display: inline-block;
+        }
+    }
+    a {
+        margin: 0.5rem;
+        text-transform: uppercase;
+    }
+}
+
+footer {
+    margin: 2rem 0;
+    text-align: center;
+}

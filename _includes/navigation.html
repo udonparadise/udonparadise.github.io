@@ -1,0 +1,9 @@
+<nav role="navigation">
+  <ul>
+    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>{{ site.title }}</a></li>
+    <li><a href="/notes" {% if page.url == "/notes" %}class="active"{% endif %}>記録</a></li>
+    <li><a href="/about" {% if page.url == "/about" %}class="active"{% endif %}>案内</a></li>
+    <li><a href="/events" {% if page.url == "/events" %}class="active"{% endif %}>現場</a></li>
+    <li><a href="/disc" {% if page.url == "/disc" %}class="active"{% endif %}>所持</a></li>
+  </ul>
+</nav>

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello! Project 研修生発表会2020 ～夏の公開実力診断テスト～ を見た
-description: ハロプロ研修生
 ---
 
 ハロプロ研修生の実力診断を見た。

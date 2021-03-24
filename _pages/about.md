@@ -3,10 +3,14 @@ layout: page
 title: 案内
 ---
 
-- うどん
-- クソDD
-- ベリヲタの亡霊
-    - ベリマン新規
+ベリマン新規のベリヲタ亡霊  
+現在はクソDD
+
+趣味はハロショでみいみの生写真を買うことと  
+過去のハロプロ関係の映像作品をブックオフで買い漁ること
+
+-  <a href="/events" {% if page.url == "/events" %}class="active"{% endif %}>現場</a>
+-  <a href="/disc" {% if page.url == "/disc" %}class="active"{% endif %}>所持</a>
 
 # 推し
 

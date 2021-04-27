@@ -71,6 +71,8 @@ title: 所持
 1. Juice=Juice LIVE 2018 at NIPPON BUDOKAN TRIANGROOOVE
 1. ハロプロ プレミアム Juice=Juice CONCERT TOUR 2019 ～JuiceFull!!!!!!!～ FINAL 宮崎由加卒業スペシャル
 1. Juice=Juice Concert 2019 ～octopic!～
+1. Hello! Project presents...「Premier seat」 ～Juice=Juice Premium～
+1. Juice=Juice コンサート2020 〜続いていくSTORY〜 宮本佳林卒業スペシャル
 
 # スマイレージ＆アンジュルム
 
@@ -80,13 +82,30 @@ title: 所持
 1. アンジュルム コンサートツアー 2016春 『九位一体』 〜田村芽実卒業スペシャル〜
 1. アンジュルム コンサート 2017 Autumn 「Black & White」special ～風林火山～
 1. ハロプロ プレミアム アンジュルム コンサートツアー 2019春 ファイナル 和田彩花卒業スペシャル 輪廻転生 ～あるとき生まれた愛の提唱～
+1. アンジュルム コンサート2020 〜起承転結〜 船木結卒業スペシャル
+
+# モーニング娘。
+
+1. ~~モーニング娘。コンサートツアー2003春NON STOP！~~
+1. ~~モーニング娘。CONCERT TOUR 2003 15人でNON STOP!~~
+1. モーニング娘。おとめ組 初公演〜おとめチック〜
+1. MORNING MUSUME。CONCERT TOUR 2004 SPRING The BEST of Japan
+1. ~~モーニング娘。コンサートツアー『The BEST of Japan 夏〜秋'04』~~
+1. モーニング娘。コンサートツアー2005春 〜第六感 ヒット満開!〜
+1. コンサートツアー2005 夏秋『バリバリ教室～小春ちゃんいらっしゃい！～』
+1. モーニング娘。コンサートツアー2006春 ～レインボーセブン～
+1. コンサートツアー2006秋～踊れ！モーニングカレー～
+1. モーニング娘。 コンサートツアー2007春～SEXY 8 ビート～
 
 # ハロプロ
 
+1. Hello! Project 2004 Winter～C'MON!ダンスワールド～
+1. Hello! Project 2004 summer～夏のド～ン！～
 1. Hello! Project 2005 Winter オールスターズ大乱舞 〜A HAPPY NEW POWER! 飯田圭織卒業スペシャル〜
+1. Hello! Project 2005 夏の歌謡ショー -'05 セレクション！コレクション！-
 1. Hello! Project 2006 Summer〜ワンダフルハーツランド〜
 1. Hello! Project 2007 Winter LIVE DVD BOX
-1. Hello!Project 2007 Summer 10th アニバーサリー大感謝祭〜ハロ☆プロ夏祭り〜
+1. Hello! Project 2007 Summer 10th アニバーサリー大感謝祭〜ハロ☆プロ夏祭り〜
 1. Hello! Project 2008 Winter LIVE DVD BOX
 1. Hello! Project 2008 Summer ワンダフルハーツ公演〜避暑地でデートいたしまSHOW〜
 1. Hello! Project 2009 SUMMER 革命元年 〜Hello! チャンプル〜
@@ -95,8 +114,8 @@ title: 所持
 1. Hello! Project 2010 SUMMER 〜ファンコラ!〜
 1. Hello! Project 2011 SUMMER 〜ニッポンの未来は〜
 1. Hello! Project 誕生15周年記念ライブ 2013 冬 ビバ!・ブラボー!
-1. Hello! Project 春の大感謝 ひな祭りフェスティバル 
-1. Hello!Project 2013 SUMMER COOL HELLO!〜ソレゾーレ！〜・〜マゼコーゼ！〜
+1. Hello! Project 春の大感謝 ひな祭りフェスティバル 2013～Thank You For Your Love !～
+1. Hello! Project 2013 SUMMER COOL HELLO!〜ソレゾーレ！〜・〜マゼコーゼ！〜
 1. Hello! Project 2014 WINTER GOiSU MODE･DE-HA MiX
 1. Hello! Project 2014 SUMMER 〜KOREZO！・YAPPARI！〜完全版
 1. Hello! Project 2015 WINTER 〜DANCE MODE！・HAPPY EMOTION！〜完全版

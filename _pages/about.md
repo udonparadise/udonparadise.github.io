@@ -11,6 +11,7 @@ title: 案内
 
 -  <a href="/events" {% if page.url == "/events" %}class="active"{% endif %}>現場</a>
 -  <a href="/disc" {% if page.url == "/disc" %}class="active"{% endif %}>所持</a>
+-  <a href="/select100" {% if page.url == "/select100" %}class="active"{% endif %}>百選</a>
 
 # 推し
 

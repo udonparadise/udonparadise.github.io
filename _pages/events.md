@@ -4,12 +4,14 @@ title: 現場
 ---
 
 # 2021
+- Hello! Project 2021 秋 「続・花鳥風月」（09/25・座間・昼・鳥）
+- Hello! Project 研修生発表会 2021 9月 ～STARS～（09/21・zepp東京・夜）
 - Hello! Project 2021 Summer Sapphire & Ruby（09/04・立川・夜・Ruby）
 - Juice=Juice FCイベント2021 ～Miracle×Juice×Box×Enjoy Summer！3～ （08/25・zepp横浜・1回目）
 - BEYOOOOONDS/CHICA#TETSU FCイベント2021 ～CHICA#TETSU TRAVELER～（08/10・zepp横浜・1回目）
 - Hello! Project 2021 Summer Sapphire & Ruby（08/07・中野・昼・Ruby）
 - Hello! Project 研修生発表会2021 ～春の公開実力診断テスト～ ＜配信＞（05/29）
-- BEYOOOOONDS/雨ノ森 川海FCイベント2021 ～RFRO THEATER～（05/12・zepp横浜・昼夜）
+- BEYOOOOONDS/雨ノ森 川海FCイベント2021 ～RFRO THEATER～（05/12・zepp横浜・1回目・2回目）
 - Hello! Project 2021 春 「花鳥風月」（05/05・中野・月）＜中止＞
 - 演劇女子部「眠れる森のビヨ」（04/25・11:00）
 - ハロプロ研修生2021 初単独ライブ〜エピソードゼロ〜（04/17・中野・夜）
